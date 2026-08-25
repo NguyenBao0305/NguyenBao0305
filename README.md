@@ -7,16 +7,6 @@
 
 ---
 
-### 🚀 Về tôi
-
-- 🎓 Sinh viên ngành **Công nghệ phần mềm (CNPM)**
-- 🔭 Đang tập trung phát triển **Backend với Java & Spring Boot**
-- 🌱 Đồng thời rèn luyện Frontend: HTML, CSS, JavaScript, React
-- 💬 Có thể trao đổi về: OOP, REST API, cơ sở dữ liệu, kiến trúc hệ thống
-- 📫 Liên hệ: *thêm email/LinkedIn của bạn ở đây*
-
----
-
 ### 🛠️ Tech Stack
 
 <p align="left">
