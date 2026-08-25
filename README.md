@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/wave.gif" width="30px"/>, I'm TiuBo</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/wave.gif" width="15px"/>, I'm TiuBo</h1>
 <h3 align="center">Backend Developer | Java · Spring Boot · React</h3>
 
 <p align="center">
