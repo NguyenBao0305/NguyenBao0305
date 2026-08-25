@@ -5,11 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Backend+Developer+in+progress;Java+%7C+Spring+Boot+%7C+React" alt="Typing SVG" />
 </p>
 
----
-
-### 🛠️ Tech Stack
-
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,mysql,git,github,idea" />
 </p>
 
@@ -17,14 +13,14 @@
 
 ### 📌 Dự án nổi bật
 
-<table>
+<table width="100%">
   <tr>
-    <td>
+    <td width="50%" valign="top">
       <b>🔹 Tên dự án 1</b><br/>
       Mô tả ngắn gọn dự án làm gì, công nghệ sử dụng.<br/>
       <a href="#">🔗 Repo</a>
     </td>
-    <td>
+    <td width="50%" valign="top">
       <b>🔹 Tên dự án 2</b><br/>
       Mô tả ngắn gọn dự án làm gì, công nghệ sử dụng.<br/>
       <a href="#">🔗 Repo</a>
@@ -37,11 +33,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="./github-metrics.svg" width="40%"/>
+  <img src="./github-metrics.svg" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=NguyenBao0305&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=NguyenBao0305&theme=tokyonight&hide_border=true" width="60%"/>
 </p>
 
 ---
