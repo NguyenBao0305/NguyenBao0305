@@ -39,7 +39,7 @@
     </td>
     <td width="50%" valign="top" align="center">
       <!-- Chỗ trống để bạn thêm nội dung khác: streak-stats, top-langs, timeline... -->
-      <img src="https://streak-stats.demolab.com/?user=NguyenBao0305&theme=tokyonight&hide_border=true" width="100%"/>
+      <img src="./dist/github-contribution-grid-snake.svg" width="100%"/>
     </td>
   </tr>
 </table>
