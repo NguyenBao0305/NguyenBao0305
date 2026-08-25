@@ -33,15 +33,5 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="./github-metrics.svg" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=NguyenBao0305&theme=tokyonight&hide_border=true" width="60%"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NguyenBao0305&label=Profile%20views&color=2E9EF7&style=flat" alt="profile views" />
+  <img src="./github-metrics.svg" width="50%"/>
 </p>
