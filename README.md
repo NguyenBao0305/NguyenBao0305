@@ -11,7 +11,7 @@
 
 ---
 
-### 📌 Dự án nổi bật
+### 📌 Projects
 
 <table width="100%">
   <tr>
