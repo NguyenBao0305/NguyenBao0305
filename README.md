@@ -4,7 +4,7 @@
 </p>
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=143A51&center=false&vCenter=true&width=500&lines=Software+Engineering+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=05299E&center=false&vCenter=true&width=500&lines=Software+Engineering+Student" alt="Typing SVG" />
 </p>
 
 ### 💻 Skills
