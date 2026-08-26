@@ -19,9 +19,6 @@
 | <img src="https://skillicons.dev/icons?i=java,spring,react,html,css,js,tailwind,python&perline=3" alt="Languages and Frameworks" /> | <img src="https://skillicons.dev/icons?i=postgres,mongodb&perline=2" alt="Databases" /><br/><br/>![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white) | <img src="https://skillicons.dev/icons?i=git,github,docker&perline=3" alt="Tools" /> |
 
 <br/>
-
-### ⌨️ IDEs & Tools I Use
-
 <p align="left">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
