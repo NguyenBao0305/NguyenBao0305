@@ -1,16 +1,16 @@
 <h2 align="left">Hi 👋, I'm TiuBo</h2>
 <p>I'm a Software Engineering Student at Ho Chi Minh University Of Technology (Bach Khoa).</p>
 
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=false&vCenter=true&width=500&lines=Software+Engineering+Student;Backend+Developer+in+progress;Java+%7C+Spring+Boot+%7C+React" alt="Typing SVG" />
+</p>
+
 ### 🚀 About Me
 - 🎓 **Education:** Software Engineering Student at **Ho Chi Minh City University of Technology (HCMUT - Bách Khoa)**.
 - 💻 **Focus:** Building scalable backend systems & RESTful APIs with **Java & Spring Boot**.
 - 🎨 **Frontend:** Hands-on experience with **React & Tailwind CSS**.
 - 🛠️ **Tools & Environment:** Linux, Neovim / IntelliJ IDEA, Git, MySQL.
 - 🎯 **Goal:** Deepening architectural knowledge to become a proficient Backend Engineer.
-
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=false&vCenter=true&width=500&lines=Software+Engineering+Student;Backend+Developer+in+progress;Java+%7C+Spring+Boot+%7C+React" alt="Typing SVG" />
-</p>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,mysql,git,github,idea" />
