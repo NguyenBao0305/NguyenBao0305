@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋, I'm TiuBo</h2>
 <p align="left">
-  I am a Computer Science student (specializing in Software Engineering) at <strong>Ho Chi Minh City University of Technology (HCMUT - Bách Khoa)</strong>, passionate about building reliable and scalable software applications. Core to my stack are <strong>Java</strong>, <strong>Spring Boot</strong>, <strong>React</strong>, and modern databases, driven by clean code principles and solid engineering practices.
+  I am a Computer Science student (specializing in Software Engineering) at <strong>Ho Chi Minh City University of Technology (HCMUT - Bách Khoa)</strong>, passionate about building reliable and scalable software applications. Core to my stack are <strong>Java</strong>, <strong>Spring Boot</strong>, <strong>React</strong>, and modern databases, alongside foundational knowledge of <strong>Python</strong>, all driven by clean code principles and solid engineering practices.
 </p>
 
 <p align="left">
