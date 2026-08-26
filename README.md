@@ -1,14 +1,13 @@
-<h1 align="center">Hi 👋, I'm TiuBo</h1>
-<h3 align="center">Backend Developer | Java · Spring Boot · React</h3>
+<h1 align="left">Hi 👋, I'm TiuBo</h1>
+<h3 align="left">Backend Developer | Java · Spring Boot · React</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Backend+Developer+in+progress;Java+%7C+Spring+Boot+%7C+React" alt="Typing SVG" />
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=false&vCenter=true&width=500&lines=Software+Engineering+Student;Backend+Developer+in+progress;Java+%7C+Spring+Boot+%7C+React" alt="Typing SVG" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,mysql,git,github,idea" />
 </p>
-
 ---
 
 ### 📌 Projects
