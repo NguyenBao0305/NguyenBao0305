@@ -1,12 +1,10 @@
 <h2 align="left">Hi 👋, I'm TiuBo</h2>
 <p align="left">
-  Currently pursuing my Software Engineering degree at <strong>Ho Chi Minh City University of Technology (HCMUT - Bách Khoa)</strong>, I am an aspiring Backend Engineer dedicated to building high-concurrency, resilient, and maintainable systems.
-  <br/><br/>
-  Core to my tech stack are <strong>Java</strong>, <strong>Spring Boot</strong>, and modern SQL/NoSQL databases. Beyond writing code, I place strong emphasis on system design, database optimization, containerization with <strong>Docker</strong>, and Unix-based development practices—aiming to evolve into a proficient Backend / System Architect.
+  I am a Software Engineering student at <strong>Ho Chi Minh City University of Technology (HCMUT - Bách Khoa)</strong>, passionate about building reliable and scalable software applications. Core to my stack are <strong>Java</strong>, <strong>Spring Boot</strong>, <strong>React</strong>, and modern databases, driven by clean code principles and solid engineering practices.
 </p>
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=false&vCenter=true&width=500&lines=Software+Engineering+Student;Backend+Developer+in+progress" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=false&vCenter=true&width=500&lines=Software+Engineering+Student" alt="Typing SVG" />
 </p>
 
 ### 💻 Skills
