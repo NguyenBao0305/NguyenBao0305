@@ -4,6 +4,7 @@
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=false&vCenter=true&width=500&lines=Software+Engineering+Student;Backend+Developer+in+progress;Java+%7C+Spring+Boot+%7C+React" alt="Typing SVG" />
 </p>
+
 ### 🚀 About Me
 - 🎓 **Education:** Software Engineering Student at **Ho Chi Minh City University of Technology (HCMUT - Bách Khoa)**.
 - 💻 **Focus:** Building scalable backend systems & RESTful APIs with **Java & Spring Boot**.
@@ -12,7 +13,6 @@
 - 🎯 **Goal:** Deepening architectural knowledge to become a proficient Backend Engineer.
 
 ### 💻 Skills
-
 | Languages & Frameworks | Databases & Testing | Tools & Deployment |
 | :---: | :---: | :---: |
 | <img src="https://skillicons.dev/icons?i=java,spring,react,html,css,js,tailwind,python&perline=3" alt="Languages and Frameworks" /> | <img src="https://skillicons.dev/icons?i=postgres,mongodb&perline=2" alt="Databases" /><br/><br/>![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white) | <img src="https://skillicons.dev/icons?i=git,github,docker&perline=3" alt="Tools" /> |
@@ -25,8 +25,8 @@
 </p>
 
 <br/>
-### 📌 Projects
 
+### 📌 Projects
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
