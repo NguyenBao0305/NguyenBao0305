@@ -2,7 +2,7 @@
 <p>I'm a Software Engineering Student at Ho Chi Minh University Of Technology (Bach Khoa).</p>
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=false&vCenter=true&width=500&lines=Software+Engineering+Student;Backend+Developer+in+progress;Java+%7C+Spring+Boot+%7C+React" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=false&vCenter=true&width=500&lines=Software+Engineering+Student;Backend+Developer+in+progress" alt="Typing SVG" />
 </p>
 
 ### 🚀 About Me
