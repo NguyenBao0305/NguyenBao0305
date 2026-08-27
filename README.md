@@ -9,18 +9,12 @@
 
 ### 💻 Skills
 
-<table width="100%">
+<table>
   <thead>
     <tr>
-      <th align="center" width="33%">
-        <h3>🌐 Languages & Frameworks</h3>
-      </th>
-      <th align="center" width="33%">
-        <h3>🗄️ Databases & Testing</h3>
-      </th>
-      <th align="center" width="33%">
-        <h3>🚀 Tools & Deployment</h3>
-      </th>
+      <th align="center"><b>🌐 Languages & Frameworks</b></th>
+      <th align="center"><b>🗄️ Databases & Testing</b></th>
+      <th align="center"><b>🚀 Tools & Deployment</b></th>
     </tr>
   </thead>
   <tbody>
@@ -47,8 +41,8 @@
 </table>
 
 <br/>
-<p align="center">
-  <b>⚡ IDEs & Environments</b><br/><br/>
+<p align="left">
+  <b>⚡ IDEs & Environments:</b>&nbsp;
   <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
