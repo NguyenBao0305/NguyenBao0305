@@ -4,7 +4,7 @@
 </p>
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF0055&center=false&vCenter=true&width=550&lines=%3E_+Software+Engineering+Student;%3E_+Java,+Spring+Boot+%26+React;%3E_+Building+Scalable+Systems;%3E_+Neovim+%26+Clean+Code+Enthusiast" alt="Typing SVG" />
+  <img src="./assets/readme-header.svg" alt="Software Engineering Student" width="600"/>
 </p>
 
 ### 💻 Skills
