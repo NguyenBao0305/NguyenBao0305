@@ -10,7 +10,7 @@
   <img src="./assets/readme-header.svg" alt="Software Engineering Student" width="400"/>
 </p>
 
-### 💻 Skills
+### Some of my skills
 
 <table>
   <thead>
