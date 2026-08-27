@@ -51,7 +51,7 @@
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
 </p>
 
-### 📌 Projects
+### My projects
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
@@ -69,7 +69,7 @@
 
 ---
 
-📊 GitHub Stats
+### GitHub Stats
 <table width="100%"> <tr> <td width="50%" valign="top" align="center"> <img src="./github-metrics.svg" width="100%"/> </td> <td width="50%" valign="top" align="center"> <img src="./dist/github-contribution-grid-snake.svg" width="100%"/> <br/> <img src="./github-languages.svg" width="100%"/> </td> </tr> </table>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=NguyenBao0305&label=Profile%20views&color=2E9EF7&style=flat" alt="profile views" /> </p>
     </td>
