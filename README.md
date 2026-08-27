@@ -4,7 +4,7 @@
 </p>
 
 <p align="left">
-  <img src="./assets/readme-header.svg" alt="Software Engineering Student" width="600"/>
+  <img src="./assets/readme-header.svg" alt="Software Engineering Student" width="450"/>
 </p>
 
 ### 💻 Skills
