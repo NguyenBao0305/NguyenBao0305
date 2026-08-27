@@ -4,7 +4,7 @@
 </p>
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=8B5CF6&center=false&vCenter=true&width=550&lines=~%24+Software+Engineering+Student;~%24+Passionate+about+Clean+Code;~%24+Turning+coffee+into+reliable+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF0055&center=false&vCenter=true&width=550&lines=%3E_+Software+Engineering+Student;%3E_+Java,+Spring+Boot+%26+React;%3E_+Building+Scalable+Systems;%3E_+Neovim+%26+Clean+Code+Enthusiast" alt="Typing SVG" />
 </p>
 
 ### 💻 Skills
