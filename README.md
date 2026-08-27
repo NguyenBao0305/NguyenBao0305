@@ -7,39 +7,26 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=33CCFF&center=false&vCenter=true&width=500&lines=Software+Engineering+Student" alt="Typing SVG" />
 </p>
 
-### 💻 Skills
-<table>
-  <thead>
-    <tr bgcolor="#eaeff5">
-      <th align="center">Languages & Frameworks</th>
-      <th align="center">Databases & Testing</th>
-      <th align="center">Tools & Deployment</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" valign="top">
-        <img src="https://skillicons.dev/icons?i=java,spring,react,html,css,js,tailwind,python&perline=3" alt="Languages and Frameworks" />
-      </td>
-      <td align="center" valign="top">
-        <img src="https://skillicons.dev/icons?i=postgres,mongodb&perline=2" alt="Databases" /><br/><br/>
-        <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit5" />
-      </td>
-      <td align="center" valign="top">
-        <img src="https://skillicons.dev/icons?i=git,github,docker&perline=3" alt="Tools" />
-      </td>
-    </tr>
-  </tbody>
-</table>
+<div align="center">
+  <h3>💻 Tech Stack & Tools</h3>
+  
+  <p><b>Languages & Frameworks</b></p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=java,spring,python,js,react,tailwind,html,css&theme=dark&perline=8" alt="Languages & Frameworks" />
+  </p>
 
-<br/>
-<p align="left">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
-  <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
-</p>
+  <p><b>Databases, Testing & Deployment</b></p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,git,github,docker&theme=dark&perline=5" alt="Databases & Tools" />
+  </p>
 
-<br/>
+  <p><b>IDE & Environments</b></p>
+  <p>
+    <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
+    <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
+  </p>
+</div>
 
 ### 📌 Projects
 <table width="100%">
