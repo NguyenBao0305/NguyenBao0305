@@ -17,9 +17,8 @@
       </feMerge>
     </filter>
 
-    <!-- vung che dung de tao hieu ung go / xoa chu -->
     <clipPath id="typeClip">
-      <rect x="26" y="55" height="55" rx="2">
+      <rect x="26" y="60" width="0" height="50">
         <animate attributeName="width"
           values="0;430;430;0;0"
           keyTimes="0;0.35;0.75;0.85;1"
@@ -44,20 +43,9 @@
   <text x="300" y="24.5" text-anchor="middle" font-family="Fira Code, Consolas, monospace"
         font-size="12" fill="#6b6f80">README.md</text>
 
-  <!-- noi dung go chu: bi che boi clipPath de tao hieu ung go roi xoa -->
-  <g clip-path="url(#typeClip)">
-    <text x="26" y="92" font-family="Fira Code, Consolas, monospace" font-size="24"
-          font-weight="600" fill="url(#textGrad)" filter="url(#glow)">
-      &gt;_ Software Engineering Student_
-    </text>
-  </g>
-
-  <!-- con tro nhap nhay, di chuyen theo mep chu dang go/xoa -->
-  <rect y="72" width="10" height="22" fill="#ff2d55" filter="url(#glow)">
-    <animate attributeName="x"
-      values="26;456;456;26;26"
-      keyTimes="0;0.35;0.75;0.85;1"
-      dur="4.5s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/>
-  </rect>
+  <!-- chu gradient, go roi xoa lien tuc, khong gach chan / khong con tro -->
+  <text x="26" y="92" font-family="Fira Code, Consolas, monospace" font-size="24"
+        font-weight="600" fill="url(#textGrad)" filter="url(#glow)" clip-path="url(#typeClip)">
+    &gt;_ Software Engineering Student_
+  </text>
 </svg>
