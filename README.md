@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋, I'm TiuBo</h2>
+<h1 align="left">Hi 👋, I'm TiuBo</h1>
 
 <blockquote>
 <p align="left">
