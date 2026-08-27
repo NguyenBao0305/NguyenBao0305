@@ -1,7 +1,10 @@
 <h2 align="left">Hi 👋, I'm TiuBo</h2>
+
+<blockquote>
 <p align="left">
-  I am a Computer Science student (specializing in Software Engineering) at <strong>Ho Chi Minh City University of Technology (HCMUT - Bách Khoa)</strong>, passionate about building reliable and scalable software applications. Core to my stack are <strong>Java</strong>, <strong>Spring Boot</strong>, <strong>React</strong>, and modern databases, alongside foundational knowledge of <strong>Python</strong>, all driven by clean code principles and solid engineering practices.
+<code>&gt;_</code>&nbsp; I am a Computer Science student (specializing in Software Engineering) at <strong>Ho Chi Minh City University of Technology (HCMUT - Bách Khoa)</strong>, passionate about building reliable and scalable software applications. Core to my stack are <code>Java</code>, <code>Spring Boot</code>, <code>React</code>, and modern databases, alongside foundational knowledge of <code>Python</code>, all driven by clean code principles and solid engineering practices.
 </p>
+</blockquote>
 
 <p align="left">
   <img src="./assets/readme-header.svg" alt="Software Engineering Student" width="400"/>
