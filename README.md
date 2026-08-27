@@ -15,9 +15,22 @@
 <table>
   <thead>
     <tr>
-      <th align="center"><b>🌐 Languages & Frameworks</b></th>
-      <th align="center"><b>🗄️ Databases & Testing</b></th>
-      <th align="center"><b>🚀 Tools & Deployment</b></th>
+<thead>
+  <tr>
+    <th align="center">
+      💻<br/>
+      <img src="https://img.shields.io/badge/Languages_%26_Frameworks-22d3ee?style=flat-square&labelColor=0b0d14" alt="Languages & Frameworks"/>
+    </th>
+    <th align="center">
+      🗃️<br/>
+      <img src="https://img.shields.io/badge/Database_%26_Testing-6ee7b7?style=flat-square&labelColor=0b0d14" alt="Database & Testing"/>
+    </th>
+    <th align="center">
+      ⚙️<br/>
+      <img src="https://img.shields.io/badge/Tools_%26_Deployment-22d3ee?style=flat-square&labelColor=0b0d14" alt="Tools & Deployment"/>
+    </th>
+  </tr>
+</thead>
     </tr>
   </thead>
   <tbody>
