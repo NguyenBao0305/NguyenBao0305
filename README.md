@@ -7,26 +7,52 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=33CCFF&center=false&vCenter=true&width=500&lines=Software+Engineering+Student" alt="Typing SVG" />
 </p>
 
-### 💻 Tech Stack & Tools
+### 💻 Skills
 
-**Languages & Frameworks**  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="center" width="33%">
+        <h3>🌐 Languages & Frameworks</h3>
+      </th>
+      <th align="center" width="33%">
+        <h3>🗄️ Databases & Testing</h3>
+      </th>
+      <th align="center" width="33%">
+        <h3>🚀 Tools & Deployment</h3>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" valign="top">
+        <br/>
+        <img src="https://skillicons.dev/icons?i=java,spring,react,html,css,js,tailwind,python&perline=4&theme=dark" alt="Languages and Frameworks" />
+        <br/><br/>
+      </td>
+      <td align="center" valign="top">
+        <br/>
+        <img src="https://skillicons.dev/icons?i=postgres,mongodb&perline=2&theme=dark" alt="Databases" />
+        <br/><br/>
+        <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit5" />
+        <br/><br/>
+      </td>
+      <td align="center" valign="top">
+        <br/>
+        <img src="https://skillicons.dev/icons?i=git,github,docker&perline=3&theme=dark" alt="Tools" />
+        <br/><br/>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-**Databases & Testing**  
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-
-**DevOps & Environments**  
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![NeoVim](https://img.shields.io/badge/NeoVim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+<br/>
+<p align="center">
+  <b>⚡ IDEs & Environments</b><br/><br/>
+  <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
+</p>
 
 ### 📌 Projects
 <table width="100%">
