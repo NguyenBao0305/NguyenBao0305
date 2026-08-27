@@ -70,8 +70,15 @@
 ---
 
 ### GitHub Stats
-<table width="100%"> <tr> <td width="50%" valign="top" align="center"> <img src="./github-metrics.svg" width="100%"/> </td> <td width="50%" valign="top" align="center"> <img src="./dist/github-contribution-grid-snake.svg" width="100%"/> <br/> <img src="./github-languages.svg" width="100%"/> </td> </tr> </table>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=NguyenBao0305&label=Profile%20views&color=2E9EF7&style=flat" alt="profile views" /> </p>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <img src="./github-metrics.svg" width="100%"/>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <img src="./github-languages.svg" width="100%"/>
+      <br/>
+      <img src="./dist/github-contribution-grid-snake.svg" width="100%"/>
     </td>
   </tr>
 </table>
