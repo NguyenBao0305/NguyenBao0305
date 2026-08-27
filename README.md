@@ -15,7 +15,7 @@
 <table>
   <thead>
     <tr>
- <th align="center"><b>🌐 Languages & Frameworks</b></th>
+ <th align="center"><b> <img src="https://cdn.simpleicons.org/sagemath" width="24" height="24" alt="SageMath"/> Languages & Frameworks</b></th>
       <th align="center"><b>🗄️ Databases & Testing</b></th>
       <th align="center"><b>🚀 Tools & Deployment</b></th>
     </tr>
