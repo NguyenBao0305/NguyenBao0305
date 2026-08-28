@@ -51,7 +51,7 @@
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
 </p>
 
-### My projects
+### Projects
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
