@@ -24,7 +24,7 @@
     <tr>
       <td align="center" valign="top">
         <br/>
-        <img src="https://skillicons.dev/icons?i=java,spring,react,html,css,js,tailwind,python&perline=4&theme=dark" alt="Languages and Frameworks" />
+        <img src="https://skillicons.dev/icons?i=java,spring,react,js,python&perline=4&theme=dark" alt="Languages and Frameworks" />
         <br/><br/>
       </td>
       <td align="center" valign="top">
