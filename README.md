@@ -29,7 +29,7 @@
       </td>
       <td align="center" valign="top">
         <br/>
-        <img src="https://skillicons.dev/icons?i=postgres,mongodb&perline=2&theme=dark" alt="Databases" />
+        <img src="https://skillicons.dev/icons?i=postgres&perline=2&theme=dark" alt="Databases" />
         <br/><br/>
         <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit5" />
         <br/><br/>
@@ -48,7 +48,6 @@
   <b>IDEs & Environments:</b>&nbsp;
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
 </p>
 
 ### Projects
