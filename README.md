@@ -54,13 +54,13 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <b>🔹 Tên dự án 1</b><br/>
-      Mô tả ngắn gọn dự án làm gì, công nghệ sử dụng.<br/>
+      <b>🔹 Dự án 1</b><br/>
+      ... <br/>
       <a href="#">🔗 Repo</a>
     </td>
     <td width="50%" valign="top">
-      <b>🔹 Tên dự án 2</b><br/>
-      Mô tả ngắn gọn dự án làm gì, công nghệ sử dụng.<br/>
+      <b>🔹 Dự án 2</b><br/>
+      ... <br/>
       <a href="#">🔗 Repo</a>
     </td>
   </tr>
